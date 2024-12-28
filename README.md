@@ -26,6 +26,16 @@
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
+## Export database
+
+Export the inventory_db.sql to your local server (using MySQL)
+
+## Export postman
+
+Export the Inventory Management Techave.postman_collection.json to your postman dekstop
+
+Export the inventory_db.sql to your local server (using MySQL)
+
 ## Project setup
 
 ```bash
