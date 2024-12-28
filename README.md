@@ -34,7 +34,6 @@ Export the inventory_db.sql to your local server (using MySQL)
 
 Export the Inventory Management Techave.postman_collection.json to your postman dekstop
 
-Export the inventory_db.sql to your local server (using MySQL)
 
 ## Project setup
 
